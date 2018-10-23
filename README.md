@@ -1,5 +1,5 @@
 # RedSharp
-C# random tools and scripts for Pentesting and offensive stuff
+random C# tools and scripts for Pentesting and offensive stuff
 
 ## SharpThrough
 Simple yet effective C# reverse shell, at the moment can bypass many (maybe all) AVs  
