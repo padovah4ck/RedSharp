@@ -1,0 +1,7 @@
+C:\temp2\temp\PSBypassCLM\SharpMeter\bin\x86\Debug\sharpmeter.exe.config
+C:\temp2\temp\PSBypassCLM\SharpMeter\bin\x86\Debug\sharpmeter.exe
+C:\temp2\temp\PSBypassCLM\SharpMeter\bin\x86\Debug\sharpmeter.pdb
+C:\temp2\temp\PSBypassCLM\SharpMeter\bin\x86\Debug\System.Net.Http.dll
+C:\temp2\temp\PSBypassCLM\SharpMeter\bin\x86\Debug\System.Net.Http.xml
+C:\temp2\temp\PSBypassCLM\SharpMeter\obj\x86\Debug\sharpmeter.exe
+C:\temp2\temp\PSBypassCLM\SharpMeter\obj\x86\Debug\sharpmeter.pdb

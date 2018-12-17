@@ -1,0 +1,8 @@
+C:\temp2\temp\PSBypassCLM\SharpThrough\bin\x64\Debug\sharpthrough.exe.config
+C:\temp2\temp\PSBypassCLM\SharpThrough\bin\x64\Debug\sharpthrough.exe
+C:\temp2\temp\PSBypassCLM\SharpThrough\bin\x64\Debug\sharpthrough.pdb
+C:\temp2\temp\PSBypassCLM\SharpThrough\bin\x64\Debug\System.Net.Http.dll
+C:\temp2\temp\PSBypassCLM\SharpThrough\bin\x64\Debug\System.Net.Http.xml
+C:\temp2\temp\PSBypassCLM\SharpThrough\obj\x64\Debug\SharpThrough.csprojResolveAssemblyReference.cache
+C:\temp2\temp\PSBypassCLM\SharpThrough\obj\x64\Debug\sharpthrough.exe
+C:\temp2\temp\PSBypassCLM\SharpThrough\obj\x64\Debug\sharpthrough.pdb
