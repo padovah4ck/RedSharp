@@ -22,6 +22,8 @@ Do not touch generated payload format (not even the variable name)! Leave it as 
 ```
 Usage :
 sharpmeter.exe PATH_TO_PAYLOAD
+
+Setup your Meterpreter handler+payload listener on the attacking machine
 ```
 An example payload (x64 format) is attached inside the project. IDE VS 2015, csproj is available.  
 This program is capable of running ANY shellcode but you need to be aware of shellcode format; it has to be in "meterpreter" format, so you may eventually convert it (but it's an easy task)
