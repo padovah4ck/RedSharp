@@ -29,3 +29,7 @@ An example payload (x64 format) is attached inside the project. IDE VS 2015, csp
 This program is capable of running ANY shellcode but you need to be aware of shellcode format; it has to be in "meterpreter" format, so you may eventually convert it (but it's an easy task)
 
 https://www.virustotal.com/#/file/12835ae086001626776b4ea0ce68035e2cd46c1924cb83bbe4ae7d5f615001ce/detection
+
+---
+
+![Beer](https://icons.iconarchive.com/icons/flat-icons.com/flat/48/Beer-icon.png)  [Buy me a beer if you like ;-)](https://www.buymeacoffee.com/padovah4ck)
